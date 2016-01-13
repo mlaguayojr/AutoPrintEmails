@@ -7,3 +7,9 @@ connect to an IMAP enabled email account to login and check a label for new emai
 * A default printer installed
 * An IMAP enabled account
 * An internet connection
+
+# Setup
+place all files in the same directory
+add a shortcut to main.bat to Startup.
+change account info in fetchEmails.py
+reboot computer
